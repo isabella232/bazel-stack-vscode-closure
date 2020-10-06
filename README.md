@@ -1,6 +1,8 @@
 # bazel-stack-vscode-closure
 
-Additional support for [rules_go](https://github.com/bazelbuild/rules_go) in
+![](./stackb-closure.png)
+
+Additional support for [rules_closure](https://github.com/bazelbuild/rules_closure) in
 conjunction with [bazel-stack-vscode](https://marketplace.visualstudio.com/items?itemName=StackBuild.bazel-stack-vscode)
 
 > NOTE: this extension currently depends on an unreleased version of
@@ -8,10 +10,9 @@ conjunction with [bazel-stack-vscode](https://marketplace.visualstudio.com/items
 
 ## Features
 
-Problem matcher for rules_go actions:
+Problem matcher for rules_closure actions:
 
-- [GoCompilePkg](https://github.com/bazelbuild/rules_go/blob/440d3abcfcd691f6a374bbbc7f3f6a6acfc6f6e2/go/private/actions/compilepkg.bzl#L131)
-- [GoTestGenTest](https://github.com/bazelbuild/rules_go/blob/384d2909c7be2c19fc878c7caa4bcb5ad367d535/go/private/rules/test.bzl#L115)
+- [Closure](https://github.com/bazelbuild/rules_closure/blob/6ae872860072237664c5515410a0bc54e219e558/closure/compiler/closure_js_library.bzl#L295)
 
 ### 1.0.0
 
