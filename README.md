@@ -1,7 +1,5 @@
 # bazel-stack-vscode-closure
 
-![](./stackb-closure.png)
-
 Additional support for [rules_closure](https://github.com/bazelbuild/rules_closure) in
 conjunction with [bazel-stack-vscode](https://marketplace.visualstudio.com/items?itemName=StackBuild.bazel-stack-vscode)
 
